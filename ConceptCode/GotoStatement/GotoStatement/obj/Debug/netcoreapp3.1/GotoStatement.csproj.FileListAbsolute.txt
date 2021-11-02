@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.exe
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.deps.json
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.runtimeconfig.json
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.dll
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.pdb
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.dll
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.pdb
+D:\Basic Programs\ConceptCode\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.genruntimeconfig.cache

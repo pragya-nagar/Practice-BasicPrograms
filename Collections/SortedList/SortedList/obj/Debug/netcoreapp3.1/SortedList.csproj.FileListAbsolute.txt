@@ -1,0 +1,13 @@
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.exe
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.deps.json
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.json
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.runtimeconfig.dev.json
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.dll
+D:\Basic Programs\Collections\SortedList\SortedList\bin\Debug\netcoreapp3.1\SortedList.pdb
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.csprojAssemblyReference.cache
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfoInputs.cache
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.AssemblyInfo.cs
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.csproj.CoreCompileInputs.cache
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.dll
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.pdb
+D:\Basic Programs\Collections\SortedList\SortedList\obj\Debug\netcoreapp3.1\SortedList.genruntimeconfig.cache

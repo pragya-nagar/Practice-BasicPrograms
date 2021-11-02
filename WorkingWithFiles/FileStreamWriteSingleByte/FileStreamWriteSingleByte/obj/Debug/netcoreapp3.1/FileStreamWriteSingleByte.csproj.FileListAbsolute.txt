@@ -1,0 +1,13 @@
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.exe
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.deps.json
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.runtimeconfig.json
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.runtimeconfig.dev.json
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.dll
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\bin\Debug\netcoreapp3.1\FileStreamWriteSingleByte.pdb
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.csprojAssemblyReference.cache
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.AssemblyInfoInputs.cache
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.AssemblyInfo.cs
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.csproj.CoreCompileInputs.cache
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.dll
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.pdb
+D:\Basic Programs\WorkingWithFiles\FileStreamWriteSingleByte\FileStreamWriteSingleByte\obj\Debug\netcoreapp3.1\FileStreamWriteSingleByte.genruntimeconfig.cache

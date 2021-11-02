@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.exe
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.deps.json
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.runtimeconfig.json
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.dll
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\bin\Debug\netcoreapp3.1\ReflectionTypeInformation.pdb
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.dll
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.pdb
+D:\Basic Programs\ConceptCode\ReflectionTypeInformation\ReflectionTypeInformation\obj\Debug\netcoreapp3.1\ReflectionTypeInformation.genruntimeconfig.cache

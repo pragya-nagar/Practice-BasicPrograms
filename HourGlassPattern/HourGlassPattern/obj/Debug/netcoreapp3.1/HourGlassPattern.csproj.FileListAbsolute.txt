@@ -1,0 +1,13 @@
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.exe
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.deps.json
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.runtimeconfig.json
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.runtimeconfig.dev.json
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.dll
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\bin\Debug\netcoreapp3.1\HourGlassPattern.pdb
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.csprojAssemblyReference.cache
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.AssemblyInfoInputs.cache
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.AssemblyInfo.cs
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.csproj.CoreCompileInputs.cache
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.dll
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.pdb
+D:\Basic Programs\HourGlassPattern\HourGlassPattern\obj\Debug\netcoreapp3.1\HourGlassPattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.exe
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.deps.json
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.runtimeconfig.json
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.dll
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\netcoreapp3.1\SingleLevelInheritance.pdb
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.dll
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.pdb
+D:\Basic Programs\ConceptCode\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\netcoreapp3.1\SingleLevelInheritance.genruntimeconfig.cache

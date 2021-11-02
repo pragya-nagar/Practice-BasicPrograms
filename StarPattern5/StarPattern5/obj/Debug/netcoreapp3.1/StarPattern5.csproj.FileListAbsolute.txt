@@ -1,0 +1,13 @@
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.exe
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.deps.json
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.runtimeconfig.json
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.runtimeconfig.dev.json
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.dll
+D:\Basic Programs\StarPattern5\StarPattern5\bin\Debug\netcoreapp3.1\StarPattern5.pdb
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.csprojAssemblyReference.cache
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.AssemblyInfoInputs.cache
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.AssemblyInfo.cs
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.csproj.CoreCompileInputs.cache
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.dll
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.pdb
+D:\Basic Programs\StarPattern5\StarPattern5\obj\Debug\netcoreapp3.1\StarPattern5.genruntimeconfig.cache

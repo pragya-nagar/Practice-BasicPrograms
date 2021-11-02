@@ -1,0 +1,7 @@
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.exe.config
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.exe
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\bin\Debug\AllPossibleSubstrings.pdb
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.csprojAssemblyReference.cache
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.csproj.CoreCompileInputs.cache
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.exe
+D:\Basic Programs\AllPossibleSubstrings\AllPossibleSubstrings\obj\Debug\AllPossibleSubstrings.pdb

@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.exe
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.deps.json
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.runtimeconfig.json
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.dll
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\bin\Debug\netcoreapp3.1\PassingArrayToFunctions.pdb
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.dll
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.pdb
+D:\Basic Programs\ConceptCode\PassingArrayToFunctions\PassingArrayToFunctions\obj\Debug\netcoreapp3.1\PassingArrayToFunctions.genruntimeconfig.cache

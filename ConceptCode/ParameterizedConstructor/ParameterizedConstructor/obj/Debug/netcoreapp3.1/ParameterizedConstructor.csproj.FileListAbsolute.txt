@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.exe
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.deps.json
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.runtimeconfig.json
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.dll
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\netcoreapp3.1\ParameterizedConstructor.pdb
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.dll
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.pdb
+D:\Basic Programs\ConceptCode\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\netcoreapp3.1\ParameterizedConstructor.genruntimeconfig.cache

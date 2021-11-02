@@ -1,0 +1,13 @@
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.exe
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.deps.json
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.json
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.dev.json
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.dll
+D:\Basic Programs\Collections\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.pdb
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.csprojAssemblyReference.cache
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfoInputs.cache
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfo.cs
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.csproj.CoreCompileInputs.cache
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.dll
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.pdb
+D:\Basic Programs\Collections\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.genruntimeconfig.cache

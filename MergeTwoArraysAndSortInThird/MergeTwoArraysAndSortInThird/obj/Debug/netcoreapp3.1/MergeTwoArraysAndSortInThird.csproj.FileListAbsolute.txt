@@ -1,0 +1,13 @@
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.exe
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.deps.json
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.runtimeconfig.json
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.runtimeconfig.dev.json
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.dll
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\bin\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.pdb
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.csprojAssemblyReference.cache
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.AssemblyInfoInputs.cache
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.AssemblyInfo.cs
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.csproj.CoreCompileInputs.cache
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.dll
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.pdb
+D:\Basic Programs\MergeTwoArraysAndSortInThird\MergeTwoArraysAndSortInThird\obj\Debug\netcoreapp3.1\MergeTwoArraysAndSortInThird.genruntimeconfig.cache

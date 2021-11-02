@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.exe
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.deps.json
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.runtimeconfig.json
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.dll
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\bin\Debug\netcoreapp3.1\ObjectTypeParams.pdb
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.dll
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.pdb
+D:\Basic Programs\ConceptCode\ObjectTypeParams\ObjectTypeParams\obj\Debug\netcoreapp3.1\ObjectTypeParams.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.exe
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.deps.json
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.runtimeconfig.json
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.runtimeconfig.dev.json
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.dll
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\bin\Debug\netcoreapp3.1\SwapWithoutTempVariable.pdb
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.csprojAssemblyReference.cache
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.AssemblyInfoInputs.cache
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.AssemblyInfo.cs
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.csproj.CoreCompileInputs.cache
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.dll
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.pdb
+D:\Basic Programs\SwapWithoutTempVariable\SwapWithoutTempVariable\obj\Debug\netcoreapp3.1\SwapWithoutTempVariable.genruntimeconfig.cache

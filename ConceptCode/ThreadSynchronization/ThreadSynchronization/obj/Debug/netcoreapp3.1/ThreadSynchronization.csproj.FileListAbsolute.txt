@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.exe
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.deps.json
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.runtimeconfig.json
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.dll
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\bin\Debug\netcoreapp3.1\ThreadSynchronization.pdb
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.dll
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.pdb
+D:\Basic Programs\ConceptCode\ThreadSynchronization\ThreadSynchronization\obj\Debug\netcoreapp3.1\ThreadSynchronization.genruntimeconfig.cache

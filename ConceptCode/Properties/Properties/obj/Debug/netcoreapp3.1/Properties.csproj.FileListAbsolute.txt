@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.exe
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.deps.json
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.json
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.dll
+D:\Basic Programs\ConceptCode\Properties\Properties\bin\Debug\netcoreapp3.1\Properties.pdb
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.dll
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.pdb
+D:\Basic Programs\ConceptCode\Properties\Properties\obj\Debug\netcoreapp3.1\Properties.genruntimeconfig.cache

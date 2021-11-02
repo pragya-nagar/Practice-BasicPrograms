@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.exe
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.deps.json
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.runtimeconfig.json
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.dll
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\bin\Debug\netcoreapp3.1\BreakWithInnerLoop.pdb
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.dll
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.pdb
+D:\Basic Programs\ConceptCode\BreakWithInnerLoop\BreakWithInnerLoop\obj\Debug\netcoreapp3.1\BreakWithInnerLoop.genruntimeconfig.cache

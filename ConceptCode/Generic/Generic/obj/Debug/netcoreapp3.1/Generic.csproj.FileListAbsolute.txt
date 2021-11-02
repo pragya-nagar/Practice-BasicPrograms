@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.exe
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.deps.json
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.json
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.dll
+D:\Basic Programs\ConceptCode\Generic\Generic\bin\Debug\netcoreapp3.1\Generic.pdb
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.dll
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.pdb
+D:\Basic Programs\ConceptCode\Generic\Generic\obj\Debug\netcoreapp3.1\Generic.genruntimeconfig.cache

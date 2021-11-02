@@ -1,0 +1,13 @@
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.exe
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.deps.json
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.runtimeconfig.json
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.runtimeconfig.dev.json
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.dll
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\bin\Debug\netcoreapp3.1\ReverseEachWordInSentence.pdb
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.csprojAssemblyReference.cache
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.AssemblyInfoInputs.cache
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.AssemblyInfo.cs
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.dll
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.pdb
+D:\Basic Programs\ReverseEachWordInSentence\ReverseEachWordInSentence\obj\Debug\netcoreapp3.1\ReverseEachWordInSentence.genruntimeconfig.cache

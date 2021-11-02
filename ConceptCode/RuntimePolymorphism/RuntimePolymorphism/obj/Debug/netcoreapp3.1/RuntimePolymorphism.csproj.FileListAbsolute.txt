@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.exe
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.deps.json
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.runtimeconfig.json
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.dll
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\bin\Debug\netcoreapp3.1\RuntimePolymorphism.pdb
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.dll
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.pdb
+D:\Basic Programs\ConceptCode\RuntimePolymorphism\RuntimePolymorphism\obj\Debug\netcoreapp3.1\RuntimePolymorphism.genruntimeconfig.cache

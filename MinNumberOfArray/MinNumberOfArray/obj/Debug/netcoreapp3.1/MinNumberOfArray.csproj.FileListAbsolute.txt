@@ -1,0 +1,13 @@
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.exe
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.deps.json
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.runtimeconfig.json
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.runtimeconfig.dev.json
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.dll
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\bin\Debug\netcoreapp3.1\MinNumberOfArray.pdb
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.csprojAssemblyReference.cache
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.AssemblyInfoInputs.cache
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.AssemblyInfo.cs
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.dll
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.pdb
+D:\Basic Programs\MinNumberOfArray\MinNumberOfArray\obj\Debug\netcoreapp3.1\MinNumberOfArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.exe
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.deps.json
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.runtimeconfig.json
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.runtimeconfig.dev.json
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.dll
+D:\Basic Programs\JoinMethod\JoinMethod\bin\Debug\netcoreapp3.1\JoinMethod.pdb
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.csprojAssemblyReference.cache
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.AssemblyInfoInputs.cache
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.AssemblyInfo.cs
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.csproj.CoreCompileInputs.cache
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.dll
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.pdb
+D:\Basic Programs\JoinMethod\JoinMethod\obj\Debug\netcoreapp3.1\JoinMethod.genruntimeconfig.cache

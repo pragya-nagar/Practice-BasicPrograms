@@ -1,0 +1,13 @@
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.exe
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.deps.json
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.runtimeconfig.json
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.runtimeconfig.dev.json
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.dll
+D:\Basic Programs\PalindromeString\PalindromeString\bin\Debug\netcoreapp3.1\PalindromeString.pdb
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.csprojAssemblyReference.cache
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.AssemblyInfoInputs.cache
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.AssemblyInfo.cs
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.csproj.CoreCompileInputs.cache
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.dll
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.pdb
+D:\Basic Programs\PalindromeString\PalindromeString\obj\Debug\netcoreapp3.1\PalindromeString.genruntimeconfig.cache

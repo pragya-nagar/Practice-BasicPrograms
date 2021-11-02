@@ -1,0 +1,13 @@
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.exe
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.deps.json
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.runtimeconfig.json
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.runtimeconfig.dev.json
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.dll
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\bin\Debug\netcoreapp3.1\MultiDimesionalArray.pdb
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.csprojAssemblyReference.cache
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.AssemblyInfoInputs.cache
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.AssemblyInfo.cs
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.dll
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.pdb
+D:\Basic Programs\MultiDimesionalArray\MultiDimesionalArray\obj\Debug\netcoreapp3.1\MultiDimesionalArray.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListUsingCollectionInitializer", "ListUsingCollectionInitializer\ListUsingCollectionInitializer.csproj", "{A62A1336-11A2-4424-8365-B2ABEFF94863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62A1336-11A2-4424-8365-B2ABEFF94863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62A1336-11A2-4424-8365-B2ABEFF94863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62A1336-11A2-4424-8365-B2ABEFF94863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62A1336-11A2-4424-8365-B2ABEFF94863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {938C105E-286A-4725-8854-7E8AA432CF4B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.exe
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.deps.json
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.runtimeconfig.json
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.runtimeconfig.dev.json
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.dll
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\bin\Debug\netcoreapp3.1\MaxNumberOfArray.pdb
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.csprojAssemblyReference.cache
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.AssemblyInfoInputs.cache
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.AssemblyInfo.cs
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.dll
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.pdb
+D:\Basic Programs\MaxNumberOfArray\MaxNumberOfArray\obj\Debug\netcoreapp3.1\MaxNumberOfArray.genruntimeconfig.cache

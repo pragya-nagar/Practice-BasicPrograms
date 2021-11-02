@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.exe
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.deps.json
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.runtimeconfig.json
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.dll
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\bin\Debug\netcoreapp3.1\CallByValue.pdb
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.dll
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.pdb
+D:\Basic Programs\ConceptCode\CallByValue\CallByValue\obj\Debug\netcoreapp3.1\CallByValue.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.exe
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.deps.json
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.runtimeconfig.json
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.runtimeconfig.dev.json
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.dll
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\bin\Debug\netcoreapp3.1\RightCircularRotationArray.pdb
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.csprojAssemblyReference.cache
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.AssemblyInfoInputs.cache
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.AssemblyInfo.cs
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.dll
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.pdb
+D:\Basic Programs\RightCircularRotationArray\RightCircularRotationArray\obj\Debug\netcoreapp3.1\RightCircularRotationArray.genruntimeconfig.cache

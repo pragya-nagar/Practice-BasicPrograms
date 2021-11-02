@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.exe
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.deps.json
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.runtimeconfig.json
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.dll
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\bin\Debug\netcoreapp3.1\MultiLevelInheritance.pdb
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.dll
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.pdb
+D:\Basic Programs\ConceptCode\MultiLevelInheritance\MultiLevelInheritance\obj\Debug\netcoreapp3.1\MultiLevelInheritance.genruntimeconfig.cache

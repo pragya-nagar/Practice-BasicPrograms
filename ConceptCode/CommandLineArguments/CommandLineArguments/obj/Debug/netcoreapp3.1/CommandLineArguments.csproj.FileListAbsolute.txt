@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.exe
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.deps.json
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.runtimeconfig.json
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.dll
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\bin\Debug\netcoreapp3.1\CommandLineArguments.pdb
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.dll
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.pdb
+D:\Basic Programs\ConceptCode\CommandLineArguments\CommandLineArguments\obj\Debug\netcoreapp3.1\CommandLineArguments.genruntimeconfig.cache

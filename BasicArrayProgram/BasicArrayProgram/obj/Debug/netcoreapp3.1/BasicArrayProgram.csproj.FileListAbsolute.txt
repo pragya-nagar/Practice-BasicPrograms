@@ -1,0 +1,13 @@
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.exe
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.deps.json
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.runtimeconfig.json
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.runtimeconfig.dev.json
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.dll
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\bin\Debug\netcoreapp3.1\BasicArrayProgram.pdb
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.csprojAssemblyReference.cache
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.AssemblyInfoInputs.cache
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.AssemblyInfo.cs
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.csproj.CoreCompileInputs.cache
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.dll
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.pdb
+D:\Basic Programs\BasicArrayProgram\BasicArrayProgram\obj\Debug\netcoreapp3.1\BasicArrayProgram.genruntimeconfig.cache

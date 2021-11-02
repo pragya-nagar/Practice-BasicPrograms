@@ -1,0 +1,13 @@
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.exe
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.deps.json
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.runtimeconfig.json
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.runtimeconfig.dev.json
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.dll
+D:\Basic Programs\CharacterCount\CharacterCount\bin\Debug\netcoreapp3.1\CharacterCount.pdb
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.csprojAssemblyReference.cache
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.AssemblyInfoInputs.cache
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.AssemblyInfo.cs
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.csproj.CoreCompileInputs.cache
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.dll
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.pdb
+D:\Basic Programs\CharacterCount\CharacterCount\obj\Debug\netcoreapp3.1\CharacterCount.genruntimeconfig.cache

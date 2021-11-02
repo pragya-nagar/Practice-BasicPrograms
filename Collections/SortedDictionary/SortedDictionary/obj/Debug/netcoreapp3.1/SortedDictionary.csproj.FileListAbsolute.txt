@@ -1,0 +1,13 @@
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.exe
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.deps.json
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.json
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.runtimeconfig.dev.json
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.dll
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\bin\Debug\netcoreapp3.1\SortedDictionary.pdb
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csprojAssemblyReference.cache
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfoInputs.cache
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.AssemblyInfo.cs
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.csproj.CoreCompileInputs.cache
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.dll
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.pdb
+D:\Basic Programs\Collections\SortedDictionary\SortedDictionary\obj\Debug\netcoreapp3.1\SortedDictionary.genruntimeconfig.cache

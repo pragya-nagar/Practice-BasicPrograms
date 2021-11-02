@@ -1,0 +1,13 @@
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.exe
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.deps.json
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.runtimeconfig.json
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.runtimeconfig.dev.json
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.dll
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\bin\Debug\netcoreapp3.1\NumberToCharacter.pdb
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.csprojAssemblyReference.cache
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.AssemblyInfoInputs.cache
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.AssemblyInfo.cs
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.csproj.CoreCompileInputs.cache
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.dll
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.pdb
+D:\Basic Programs\NumberToCharacter\NumberToCharacter\obj\Debug\netcoreapp3.1\NumberToCharacter.genruntimeconfig.cache

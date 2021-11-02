@@ -1,0 +1,13 @@
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.exe
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.deps.json
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.runtimeconfig.json
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.runtimeconfig.dev.json
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.dll
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\bin\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.pdb
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.csprojAssemblyReference.cache
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.AssemblyInfoInputs.cache
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.AssemblyInfo.cs
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.dll
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.pdb
+D:\Basic Programs\ThirdLargestIntergerInArray\ThirdLargestIntergerInArray\obj\Debug\netcoreapp3.1\ThirdLargestIntergerInArray.genruntimeconfig.cache

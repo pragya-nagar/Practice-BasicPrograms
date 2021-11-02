@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.exe
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.deps.json
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.runtimeconfig.json
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.dll
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.pdb
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.dll
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.pdb
+D:\Basic Programs\ConceptCode\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.genruntimeconfig.cache

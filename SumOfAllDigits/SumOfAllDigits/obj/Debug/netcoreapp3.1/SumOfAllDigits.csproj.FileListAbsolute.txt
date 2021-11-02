@@ -1,0 +1,13 @@
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.exe
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.deps.json
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.runtimeconfig.json
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.runtimeconfig.dev.json
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.dll
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\bin\Debug\netcoreapp3.1\SumOfAllDigits.pdb
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.csprojAssemblyReference.cache
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.AssemblyInfoInputs.cache
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.AssemblyInfo.cs
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.csproj.CoreCompileInputs.cache
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.dll
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.pdb
+D:\Basic Programs\SumOfAllDigits\SumOfAllDigits\obj\Debug\netcoreapp3.1\SumOfAllDigits.genruntimeconfig.cache

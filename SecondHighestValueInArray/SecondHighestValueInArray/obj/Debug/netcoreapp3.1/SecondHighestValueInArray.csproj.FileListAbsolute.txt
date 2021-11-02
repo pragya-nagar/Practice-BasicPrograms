@@ -1,0 +1,13 @@
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.exe
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.deps.json
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.runtimeconfig.json
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.runtimeconfig.dev.json
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.dll
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\bin\Debug\netcoreapp3.1\SecondHighestValueInArray.pdb
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.csprojAssemblyReference.cache
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.AssemblyInfoInputs.cache
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.AssemblyInfo.cs
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.csproj.CoreCompileInputs.cache
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.dll
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.pdb
+D:\Basic Programs\SecondHighestValueInArray\SecondHighestValueInArray\obj\Debug\netcoreapp3.1\SecondHighestValueInArray.genruntimeconfig.cache

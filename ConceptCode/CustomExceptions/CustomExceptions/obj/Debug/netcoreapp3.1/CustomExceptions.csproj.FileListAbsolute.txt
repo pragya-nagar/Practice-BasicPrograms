@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.exe
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.deps.json
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.runtimeconfig.json
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.dll
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\bin\Debug\netcoreapp3.1\CustomExceptions.pdb
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.dll
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.pdb
+D:\Basic Programs\ConceptCode\CustomExceptions\CustomExceptions\obj\Debug\netcoreapp3.1\CustomExceptions.genruntimeconfig.cache

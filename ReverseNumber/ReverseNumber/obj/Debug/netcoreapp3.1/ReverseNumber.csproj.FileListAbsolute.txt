@@ -1,0 +1,13 @@
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.exe
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.deps.json
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.json
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.runtimeconfig.dev.json
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.dll
+D:\Basic Programs\ReverseNumber\ReverseNumber\bin\Debug\netcoreapp3.1\ReverseNumber.pdb
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csprojAssemblyReference.cache
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfoInputs.cache
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.AssemblyInfo.cs
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.dll
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.pdb
+D:\Basic Programs\ReverseNumber\ReverseNumber\obj\Debug\netcoreapp3.1\ReverseNumber.genruntimeconfig.cache

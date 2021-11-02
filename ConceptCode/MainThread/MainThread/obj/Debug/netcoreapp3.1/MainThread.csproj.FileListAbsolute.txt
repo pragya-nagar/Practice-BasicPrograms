@@ -1,0 +1,13 @@
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.csprojAssemblyReference.cache
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.AssemblyInfoInputs.cache
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.AssemblyInfo.cs
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.csproj.CoreCompileInputs.cache
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.exe
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.deps.json
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.runtimeconfig.json
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.runtimeconfig.dev.json
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.dll
+D:\Basic Programs\ConceptCode\MainThread\MainThread\bin\Debug\netcoreapp3.1\MainThread.pdb
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.dll
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.pdb
+D:\Basic Programs\ConceptCode\MainThread\MainThread\obj\Debug\netcoreapp3.1\MainThread.genruntimeconfig.cache

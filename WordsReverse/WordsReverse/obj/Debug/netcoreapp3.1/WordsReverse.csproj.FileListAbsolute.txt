@@ -1,0 +1,13 @@
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.exe
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.deps.json
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.runtimeconfig.json
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.runtimeconfig.dev.json
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.dll
+D:\Basic Programs\WordsReverse\WordsReverse\bin\Debug\netcoreapp3.1\WordsReverse.pdb
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.csprojAssemblyReference.cache
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.AssemblyInfoInputs.cache
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.AssemblyInfo.cs
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.csproj.CoreCompileInputs.cache
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.dll
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.pdb
+D:\Basic Programs\WordsReverse\WordsReverse\obj\Debug\netcoreapp3.1\WordsReverse.genruntimeconfig.cache

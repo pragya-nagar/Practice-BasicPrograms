@@ -1,0 +1,13 @@
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.exe
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.deps.json
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.runtimeconfig.json
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.runtimeconfig.dev.json
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.dll
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\bin\Debug\netcoreapp3.1\ReadingBytesFromFile.pdb
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.csprojAssemblyReference.cache
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.AssemblyInfoInputs.cache
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.AssemblyInfo.cs
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.csproj.CoreCompileInputs.cache
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.dll
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.pdb
+D:\Basic Programs\WorkingWithFiles\ReadingBytesFromFile\ReadingBytesFromFile\obj\Debug\netcoreapp3.1\ReadingBytesFromFile.genruntimeconfig.cache

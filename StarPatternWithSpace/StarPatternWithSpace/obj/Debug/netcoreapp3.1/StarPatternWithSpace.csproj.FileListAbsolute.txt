@@ -1,0 +1,13 @@
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.exe
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.deps.json
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.runtimeconfig.json
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.runtimeconfig.dev.json
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.dll
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\bin\Debug\netcoreapp3.1\StarPatternWithSpace.pdb
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.csprojAssemblyReference.cache
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.AssemblyInfoInputs.cache
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.AssemblyInfo.cs
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.csproj.CoreCompileInputs.cache
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.dll
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.pdb
+D:\Basic Programs\StarPatternWithSpace\StarPatternWithSpace\obj\Debug\netcoreapp3.1\StarPatternWithSpace.genruntimeconfig.cache
